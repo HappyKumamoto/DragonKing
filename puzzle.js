@@ -40,10 +40,10 @@ let imglist = [
  "img/attendannts.jpg",
  "img/audience.jpg",
  "img/day1end.jpg",
- "img/frontEntrance.jpg",
+ "img/FrontEntrance.jpg",
  "img/fujiinana.jpg",
  "img/tonari.jpg",
- "img/Thougtful.jpg"
+ "img/Thoughtful.jpg"
  ];
 
  let explist = [
