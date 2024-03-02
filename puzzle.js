@@ -105,8 +105,8 @@ let imglist = [
  size = part[partNo];
  main_image = imglist[selectnum];
  panels = [];
- cell_w = 320 / size;
- cell_h = 320 / size;
+ cell_w = 300 / size;
+ cell_h = 300 / size;
 
  // Canvasを取得
  canvas = document.getElementById("puzzle_canvas");
