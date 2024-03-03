@@ -43,7 +43,8 @@ let imglist = [
  "img/FrontEntrance.jpg",
  "img/fujiinana.jpg",
  "img/tonari.jpg",
- "img/Thoughtful.jpg"
+ "img/Thoughtful.jpg",
+ "img/game.jpg"
  ];
 
  let explist = [
@@ -77,13 +78,14 @@ let imglist = [
    "感想戦",
    "感想戦",
    "大盤解説会挨拶",
-   "おやつの紹介",
+   "立会人: 森内俊之九段 & 新聞解説: 増田康宏七段",
    "入室",
    "封じ手",
    "旧安川邸 正面玄関",
    "藤井奈々女流(聞き手)",
    "都成竜馬七段(解説)",
-   "2012年1月 小学館将棋大会 表彰式"
+   "2012年1月 小学館将棋大会 表彰式",
+   "対局中(中央:記録係 吉田響太二段)"
    ];
 
  let selectnum = Math.floor(Math.random() * imglist.length);
