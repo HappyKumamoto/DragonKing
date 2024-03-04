@@ -45,7 +45,8 @@ let imglist = [
  "img/tonari.jpg",
  "img/Thoughtful.jpg",
  "img/game.jpg",
- "img/kentou.jpg"
+ "img/kentou.jpg",
+ "img/2012.jpg"
  ];
 
  let explist = [
@@ -85,9 +86,10 @@ let imglist = [
    "旧安川邸 正面玄関",
    "藤井奈々女流(聞き手)",
    "都成竜馬七段(解説)",
-   "2012年1月 小学館将棋大会 表彰式",
+   "2012年1月 小学館将棋大会 表彰式<br>場所:東京神保町小学館本社裏 一ツ橋センタービル12階",
    "対局中(中央:記録係 吉田響太二段)",
-   "師弟で検討中(森下卓九段 & 増田康宏七段)"
+   "師弟で検討中(森下卓九段 & 増田康宏七段)",
+   "2012年1月 審判、指導棋士の面々<br>森内名人、深浦九段、佐々木勇気四段、永瀬四段、高見四段(各当時)他"
    ];
 
  let selectnum = Math.floor(Math.random() * imglist.length);
