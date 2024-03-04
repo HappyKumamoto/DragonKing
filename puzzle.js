@@ -46,7 +46,7 @@ let imglist = [
  "img/Thoughtful.jpg",
  "img/game.jpg",
  "img/kentou.jpg",
- "img/2012.jpg"
+ "img/2012kishi.jpg"
  ];
 
  let explist = [
