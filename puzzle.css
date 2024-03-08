@@ -18,7 +18,7 @@
   color         : #FFFFEE;     /* 文字色     */
   line-height   : 1em;         /* 1行の高さ  */
   transition    : .3s;         /* なめらか変化 */
-   /*box-shadow    : 6px 6px 3px #99CCFF;   影の設定 */
+  box-shadow    : 6px 6px 3px D1D648;  /* 影の設定 */
   border        : none;    /* 枠の指定 */
   text-decoration:none  /* 下線を消す */
 }
