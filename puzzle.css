@@ -1,9 +1,9 @@
 #puzzle_canvas { top:100px; width:300px; height:300px; }
-	body { background-color: #75A9FF;
+	body { background-color: #cccc66;
                color: white;
                text-align: center;
 	       font-family:"Hiragino Sans W3", "Hiragino Kaku Gothic ProN", "ヒラギノ角ゴ ProN W3", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
   }
  #message {
-   background-color: #AAAAAA;
+   background-color: #999900;
  }
